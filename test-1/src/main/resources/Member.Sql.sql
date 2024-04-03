@@ -1,4 +1,4 @@
-create table membeTbl(
+create table memberTbl(
     firstName VARCHAR2(30),
     lastName VARCHAR2(30),
     id VARCHAR2(30) primary key,
